@@ -20,7 +20,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Work 01</a></h3>
 											<span>Website</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-share3" />60</a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
 											</p>
@@ -35,7 +35,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Work 02</a></h3>
 											<span>Animation</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-share3" />65</a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
 											</p>
@@ -50,7 +50,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Work 03</a></h3>
 											<span>Illustration</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
+												<span><a href="#"><i className="icon-share3" />44</a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
 												<span><a href="#"><i className="icon-heart" /> 49</a></span>
 											</p>
