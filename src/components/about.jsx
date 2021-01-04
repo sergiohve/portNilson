@@ -33,7 +33,8 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                
+                   <h3>Desarrollador front-End</h3>
                 </span>
                 <div className="desc">
                     <h3>HTML, CSS, JavaScript </h3>
@@ -44,7 +45,8 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                
+                <h3>Desarrollador Back-End</h3>
                 </span>
                 <div className="desc">
                     <h3>React JS, TypeScript, Node JS, EXpress </h3>
@@ -55,10 +57,11 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
+               
+                <h3>Desarrollador full-Stack</h3>
                 </span>
                 <div className="desc">
-                    <h3>SQL</h3>
+                    <h3>SQL, MySql</h3>
                     <p></p>
                 </div>
                 </div>
